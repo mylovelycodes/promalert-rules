@@ -1,0 +1,14 @@
+versions:
+  - alias: 0.24.0 / 2022-03-24
+    version: 0.24.0
+    date: released this Mar 25, 2022
+    files:
+      - arch: 386
+        os: linux
+        downloadUrl: https://github.com/prometheus/alertmanager/releases/tag/v0.24.0#:~:text=alertmanager%2D0.24.0.linux%2D386.tar.gz
+      - arch: 386
+        os: netbsd
+        downloadUrl: https://github.com/prometheus/alertmanager/releases/tag/v0.24.0#:~:text=alertmanager%2D0.24.0.netbsd%2D386.tar.gz
+      - arch: 386
+        os: freebsd
+        downloadUrl: https://github.com/prometheus/alertmanager/releases/download/v0.24.0/alertmanager-0.24.0.freebsd-386.tar.gz
